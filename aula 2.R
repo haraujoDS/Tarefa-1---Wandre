@@ -1,4 +1,4 @@
-# Henrique Araujo; https://www.linkedin.com/in/henrique-de-andrade-araujo
+# Henrique Araujo - CEUB https://www.linkedin.com/in/henrique-de-andrade-araujo
 # Atividade sugerida pelo professor Wandre https://br.linkedin.com/in/wandreveloso
 ls()
 ls
