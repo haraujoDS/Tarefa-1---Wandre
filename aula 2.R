@@ -19,7 +19,6 @@ exp(2,3)
 log2(3)
 exp2(3)
 exp(2,3)
-exp(2)3
 exp(2.3)
 '^'(2,3) #como fazer exponenciação
 '+'(2,3)
